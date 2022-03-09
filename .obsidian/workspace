@@ -4,58 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f8572551c7cc86ca",
-        "type": "split",
-        "children": [
-          {
-            "id": "b1ee025173720f70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-03-05T00:49:56.000Z - AlexHormozi - Of all my beliefsIf someone can so can Ihas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "589d3e6459898ada",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2022-03-05T00:49:56.000Z - AlexHormozi - Of all my beliefsIf someone can so can Ihas.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.6600228795504823,
-                  "close": false
-                }
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "b1ee025173720f70",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -95,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 757
+    "width": 587
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -111,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03-05T00:49:56.000Z - AlexHormozi - Of all my beliefsIf someone can so can Ihas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +84,8 @@
   },
   "active": "b1ee025173720f70",
   "lastOpenFiles": [
+    "2021-07-30T16:32:34.000Z - AlexHormozi - Scarcity mindset exists because we can quantify wha.md",
+    "2021-09-15T20:40:44.000Z - AlexHormozi - Im one superstar hire away from all the growth I c.md",
     "2022-03-05T00:49:56.000Z - AlexHormozi - Of all my beliefsIf someone can so can Ihas.md",
     "2022-03-04T22:42:51.000Z - AlexHormozi - Easy way to make a business Look at an existing .md",
     "2022-03-03T23:21:05.000Z - AlexHormozi - How to overcome sales objections using HII framew.md",
@@ -138,8 +93,6 @@
     "2022-03-03T06:48:40.000Z - IAmAndrewKirby - What do you spend most of your day trying to achiev.md",
     "2022-03-03T05:15:34.000Z - IAmAndrewKirby - What is your most painful problem.md",
     "2022-03-03T02:01:14.000Z - AlexHormozi - The easiest way for most small businesses to make m.md",
-    "2022-03-02T20:48:59.000Z - naval - The Fed is going to fight inflation  and lose.md",
-    "2022-03-02T17:11:22.000Z - IAmAndrewKirby - New YouTube VideoHow AliAbdaal Actually Earns .md",
-    "2022-03-02T16:36:53.000Z - AlexHormozi - Trying to be happy is what makes you sadYou don.md"
+    "2022-03-02T20:48:59.000Z - naval - The Fed is going to fight inflation  and lose.md"
   ]
 }
