@@ -2,11 +2,11 @@
 Synthesizing ideas together from Twitter.
 
 # Progress Update
-<img width="1141" alt="2022-03-09 Tweets" src="https://user-images.githubusercontent.com/24641573/157479603-7ed29bd5-e84f-4881-b6b1-bbbe2323e395.png">
+![Screen Shot 2022-03-10 at 9 38 48 AM](https://user-images.githubusercontent.com/24641573/157711456-28d97f32-ed0d-4355-819c-c65286362883.png)
 
 Tweet Count: 515
 
-Date: 2022-03-09
+Date: 2022-03-10
 
 # Resources
 Using https://obsidian.md to view the files and make connections.
