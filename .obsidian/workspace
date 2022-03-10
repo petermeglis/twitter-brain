@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b1ee025173720f70",
+        "id": "f0481ff86e1a4aab",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,11 +40,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "for a moment",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 587
+    "width": 307
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b1ee025173720f70",
+  "active": "f0481ff86e1a4aab",
   "lastOpenFiles": [
-    "2021-07-30T16:32:34.000Z - AlexHormozi - Scarcity mindset exists because we can quantify wha.md",
-    "2021-09-15T20:40:44.000Z - AlexHormozi - Im one superstar hire away from all the growth I c.md",
-    "2022-03-05T00:49:56.000Z - AlexHormozi - Of all my beliefsIf someone can so can Ihas.md",
-    "2022-03-04T22:42:51.000Z - AlexHormozi - Easy way to make a business Look at an existing .md",
-    "2022-03-03T23:21:05.000Z - AlexHormozi - How to overcome sales objections using HII framew.md",
-    "2022-03-03T20:24:44.000Z - AlexHormozi - Observation How good I feel about my physique is i.md",
-    "2022-03-03T06:48:40.000Z - IAmAndrewKirby - What do you spend most of your day trying to achiev.md",
-    "2022-03-03T05:15:34.000Z - IAmAndrewKirby - What is your most painful problem.md",
-    "2022-03-03T02:01:14.000Z - AlexHormozi - The easiest way for most small businesses to make m.md",
-    "2022-03-02T20:48:59.000Z - naval - The Fed is going to fight inflation  and lose.md"
+    "README.md",
+    "tweets/2022-03-04T22:42:51.000Z - AlexHormozi - Easy way to make a business Look at an existing .md",
+    "tweets/2022-02-26T02:34:45.000Z - AlexHormozi - I saw a long time friend who is a 30 year old milli.md",
+    "tweets/2022-02-25T14:58:54.000Z - IAmAndrewKirby - If stripe bought csallens IndieHackers I wonde.md",
+    "tweets/2022-02-24T03:10:28.000Z - IAmAndrewKirby - I dont self promote enough so for those who dont.md",
+    "tweets/2022-02-22T15:17:34.000Z - AlexHormozi - Expert is proclaimed often rarely achievedDef.md",
+    "tweets/2022-02-20T15:35:40.000Z - AlexHormozi - The person with the longest time horizon wins.md",
+    "tweets/2022-02-17T06:49:17.000Z - IAmAndrewKirby - How to create valuable contentThe source of most.md",
+    "tweets/2022-02-16T13:32:25.000Z - AlexHormozi - Advanced people always do the basics.md",
+    "tweets/2022-02-12T14:50:15.000Z - IAmAndrewKirby - All knowledge workers should be parttime content c.md"
   ]
 }
