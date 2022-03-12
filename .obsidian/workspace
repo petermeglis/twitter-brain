@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tweets/2022-03-03T16:00:00.000Z - JamesClear - Motivation grows with proof of progressOne reason to start with very easy.md",
+            "file": "tweets/2022-03-05T21:01:52.000Z - jackbutcher - the long way is the shortcut.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "tweets/2022-03-03T16:00:00.000Z - JamesClear - Motivation grows with proof of progressOne reason to start with very easy.md",
+            "file": "tweets/2022-03-05T21:01:52.000Z - jackbutcher - the long way is the shortcut.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:JamesClear",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tweets/2022-03-03T16:00:00.000Z - JamesClear - Motivation grows with proof of progressOne reason to start with very easy.md",
+                "file": "tweets/2022-03-05T21:01:52.000Z - jackbutcher - the long way is the shortcut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +126,15 @@
   },
   "active": "f0481ff86e1a4aab",
   "lastOpenFiles": [
-    "tweets/2022-03-03T16:00:00.000Z - JamesClear - Motivation grows with proof of progressOne reason to start with very easy.md",
-    "tweets/2022-03-02T16:00:01.000Z - JamesClear - Motivation comes and goes If you want to do something consistently then do.md",
-    "tweets/2022-02-28T16:00:00.000Z - JamesClear - Your entire life happens inside your body Its the one home you will always.md",
-    "tweets/2022-02-20T22:08:14.000Z - JamesClear - Interior design questionWhat are some genuinely interesting and unique it.md",
-    "tweets/2022-02-10T17:58:20.000Z - JamesClear - Todays issue of the 321 Newsletter is headed out to over 16 million.md",
-    "tweets/2022-01-14T14:26:42.000Z - JamesClear - The world contains far more information than any single person can learn in .md",
-    "tweets/2022-01-12T19:21:42.000Z - JamesClear - Favor Im looking for examples and stories of times when people were able.md",
-    "tweets/2022-01-02T17:00:31.000Z - JamesClear - 3 ideas to start your year1 You dont rise to the level of your goals Y.md",
-    "tweets/2021-12-31T20:19:48.000Z - JamesClear - Possibly the biggest accomplishment of my career thus far Atomic Habits i.md",
-    "tweets/2021-02-03T16:38:21.000Z - JamesClear - Whenever you are stuck searching for the optimal plan rememberGetting st.md"
+    "tweets/2022-03-05T21:01:52.000Z - jackbutcher - the long way is the shortcut.md",
+    "tweets/2022-03-08T12:16:16.000Z - jackbutcher - the real measure of your wealth is how much youd be worth if you lost all .md",
+    "tweets/2022-03-05T15:41:20.000Z - jackbutcher - your work is valuable your time is priceless.md",
+    "tweets/2022-03-02T18:48:09.000Z - jackbutcher - you have to get it to realize you dont need it.md",
+    "tweets/2022-02-24T15:57:27.000Z - jackbutcher - feeling paralyzed by our lack of progress as a specieswishing safety for t.md",
+    "tweets/2022-02-23T01:50:41.000Z - jackbutcher - all views are that of my employer me.md",
+    "tweets/2022-02-16T02:46:53.000Z - jackbutcher - the illiquidity will continue until morale improves.md",
+    "tweets/2022-02-11T18:38:59.000Z - jackbutcher - web3 httpstco5UzEDLGri6.md",
+    "tweets/2022-02-11T16:09:10.000Z - jackbutcher - tweet like no ones reading.md",
+    "tweets/2022-02-08T17:56:24.000Z - jackbutcher - the joy of expecting less.md"
   ]
 }
