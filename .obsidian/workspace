@@ -9,11 +9,48 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "ideas/2022-03-10 08-59-17 Focus on upside rather than downside.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "e56e29f702cae5e3"
+      },
+      {
+        "id": "51aed179d99aa7da",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "ideas/2022-03-10 08-59-17 Focus on upside rather than downside.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "e56e29f702cae5e3"
       }
     ],
     "direction": "vertical"
@@ -53,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420
+    "width": 665
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -69,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ideas/2022-03-10 08-59-17 Focus on upside rather than downside.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +126,15 @@
   },
   "active": "f0481ff86e1a4aab",
   "lastOpenFiles": [
-    "README.md",
-    "tweets/2022-03-03T06:48:40.000Z - IAmAndrewKirby - What do you spend most of your day trying to achiev.md",
-    "tweets/2022-02-28T01:47:56.000Z - naval - NATO now realizing that this war is winnable by agg.md",
-    "tweets/2022-03-05T00:49:56.000Z - AlexHormozi - Of all my beliefsIf someone can so can Ihas.md",
-    "tweets/2021-09-20T03:19:36.000Z - naval - Work on a cryptosystem and your work may last lif.md",
-    "tweets/2021-09-19T03:22:50.000Z - naval - The masks will come off not once everyone has been .md",
-    "tweets/2022-03-04T22:42:51.000Z - AlexHormozi - Easy way to make a business Look at an existing .md",
-    "tweets/2022-02-26T02:34:45.000Z - AlexHormozi - I saw a long time friend who is a 30 year old milli.md",
-    "tweets/2022-02-25T14:58:54.000Z - IAmAndrewKirby - If stripe bought csallens IndieHackers I wonde.md",
-    "tweets/2022-02-24T03:10:28.000Z - IAmAndrewKirby - I dont self promote enough so for those who dont.md"
+    "ideas/2022-03-10 08-59-17 Focus on upside rather than downside.md",
+    "ideas/2022-03-10 08-57-37 Make the process the reward.md",
+    "ideas/2022-03-10 09-04-18 Crypto will be the money of the future.md",
+    "ideas/2022-03-10 09-04-34 You're going to die so it doesn't matter.md",
+    "ideas/2022-03-10 09-04-16 Money only solves money problems.md",
+    "ideas/2022-03-10 09-14-40 Solve your own problems.md",
+    "ideas/2022-03-10 09-25-41 Don't think about what others think of you.md",
+    "ideas/2022-03-10 09-18-44 Do what feels like play to you.md",
+    "ideas/2022-03-10 09-26-59 Think longterm.md",
+    "ideas/2022-03-12 09-34-01 Work in public.md"
   ]
 }
