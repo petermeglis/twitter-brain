@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tweets/2022-03-05T21:01:52.000Z - jackbutcher - the long way is the shortcut.md",
+            "file": "tweets/2022-03-12T13:27:11.000Z - aaditsh - There will always be someone better richer fitterThe healthier competit.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "tweets/2022-03-05T21:01:52.000Z - jackbutcher - the long way is the shortcut.md",
+            "file": "tweets/2022-03-12T13:27:11.000Z - aaditsh - There will always be someone better richer fitterThe healthier competit.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:aaditsh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tweets/2022-03-05T21:01:52.000Z - jackbutcher - the long way is the shortcut.md",
+                "file": "tweets/2022-03-12T13:27:11.000Z - aaditsh - There will always be someone better richer fitterThe healthier competit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +127,15 @@
   },
   "active": "f0481ff86e1a4aab",
   "lastOpenFiles": [
-    "tweets/2022-03-05T21:01:52.000Z - jackbutcher - the long way is the shortcut.md",
-    "tweets/2022-03-08T12:16:16.000Z - jackbutcher - the real measure of your wealth is how much youd be worth if you lost all .md",
-    "tweets/2022-03-05T15:41:20.000Z - jackbutcher - your work is valuable your time is priceless.md",
-    "tweets/2022-03-02T18:48:09.000Z - jackbutcher - you have to get it to realize you dont need it.md",
-    "tweets/2022-02-24T15:57:27.000Z - jackbutcher - feeling paralyzed by our lack of progress as a specieswishing safety for t.md",
-    "tweets/2022-02-23T01:50:41.000Z - jackbutcher - all views are that of my employer me.md",
-    "tweets/2022-02-16T02:46:53.000Z - jackbutcher - the illiquidity will continue until morale improves.md",
-    "tweets/2022-02-11T18:38:59.000Z - jackbutcher - web3 httpstco5UzEDLGri6.md",
-    "tweets/2022-02-11T16:09:10.000Z - jackbutcher - tweet like no ones reading.md",
-    "tweets/2022-02-08T17:56:24.000Z - jackbutcher - the joy of expecting less.md"
+    "tweets/2022-03-12T13:27:11.000Z - aaditsh - There will always be someone better richer fitterThe healthier competit.md",
+    "tweets/2022-03-10T17:12:07.000Z - aaditsh - Is it good to be a perfectionist.md",
+    "tweets/2022-03-07T20:57:33.000Z - aaditsh - Renting out your time may make you rich But not wealthy.md",
+    "tweets/2022-03-06T15:14:02.000Z - aaditsh - The best advice Ive been given is to surround yourself with people that ene.md",
+    "tweets/2022-03-05T14:48:38.000Z - aaditsh - Powerful life hacks bitter truths of life and tactical career advice M.md",
+    "tweets/2022-03-04T07:44:36.000Z - aaditsh - Is it smart to reduce risktaking after moderate success.md",
+    "tweets/2022-03-02T19:40:54.000Z - aaditsh - Im trying to figure how to position my email listWhat are your favorite .md",
+    "tweets/2022-03-01T17:57:37.000Z - aaditsh - Doing a Product hunt AMA right now Lets talk marketing Twitter online le.md",
+    "tweets/2022-03-01T16:00:02.000Z - aaditsh - I built the Ultimate Guide to TwitterIt took me 1 year to figure everythi.md",
+    "tweets/2022-02-28T21:13:11.000Z - aaditsh - How to reach nearly anyone on TwitterFirstlyYou wont be able to reach.md"
   ]
 }
