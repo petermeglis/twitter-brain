@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tweets/2022-03-09T16:30:47.000Z - dickiebush - Tip for thread writers3 tweets show in the feedThe top tweetThe 2.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:dickiebush",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tweets/2022-03-09T16:30:47.000Z - dickiebush - Tip for thread writers3 tweets show in the feedThe top tweetThe 2.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +89,7 @@
   },
   "active": "f0481ff86e1a4aab",
   "lastOpenFiles": [
+    "README.md",
     "tweets/2022-03-09T16:30:47.000Z - dickiebush - Tip for thread writers3 tweets show in the feedThe top tweetThe 2.md",
     "tweets/2022-03-09T18:53:51.000Z - dickiebush - How to sell anything1 Find a problem2 Solve the problem3 Create co.md",
     "tweets/2022-03-10T15:22:50.000Z - dickiebush - 3 common traits of everyone I look up to1 They focus on mastering the ba.md",
@@ -98,7 +98,6 @@
     "tweets/2022-03-09T13:59:59.000Z - dickiebush - Recently started having weekly 11 meetings with each member of my teamUs.md",
     "tweets/2022-03-09T13:54:20.000Z - dickiebush - Reflection Ive been doing this weekWhere was I 10 years agoWhat wer.md",
     "tweets/2022-03-08T13:44:32.000Z - dickiebush - How to write better blog posts1 Write your blog post2 Edit out at leas.md",
-    "tweets/2022-03-07T14:59:08.000Z - dickiebush - Good morning to everyone getting started instead of thinking about getting s.md",
-    "tweets/2022-03-04T13:14:16.000Z - dickiebush - 15 hours left to hop aboard the March Ship 30 cohort Build lifelong frie.md"
+    "tweets/2022-03-07T14:59:08.000Z - dickiebush - Good morning to everyone getting started instead of thinking about getting s.md"
   ]
 }
