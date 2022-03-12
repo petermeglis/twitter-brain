@@ -43,8 +43,8 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307
+    "width": 420
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -90,14 +90,14 @@
   "active": "f0481ff86e1a4aab",
   "lastOpenFiles": [
     "README.md",
+    "tweets/2022-03-03T06:48:40.000Z - IAmAndrewKirby - What do you spend most of your day trying to achiev.md",
+    "tweets/2022-02-28T01:47:56.000Z - naval - NATO now realizing that this war is winnable by agg.md",
+    "tweets/2022-03-05T00:49:56.000Z - AlexHormozi - Of all my beliefsIf someone can so can Ihas.md",
+    "tweets/2021-09-20T03:19:36.000Z - naval - Work on a cryptosystem and your work may last lif.md",
+    "tweets/2021-09-19T03:22:50.000Z - naval - The masks will come off not once everyone has been .md",
     "tweets/2022-03-04T22:42:51.000Z - AlexHormozi - Easy way to make a business Look at an existing .md",
     "tweets/2022-02-26T02:34:45.000Z - AlexHormozi - I saw a long time friend who is a 30 year old milli.md",
     "tweets/2022-02-25T14:58:54.000Z - IAmAndrewKirby - If stripe bought csallens IndieHackers I wonde.md",
-    "tweets/2022-02-24T03:10:28.000Z - IAmAndrewKirby - I dont self promote enough so for those who dont.md",
-    "tweets/2022-02-22T15:17:34.000Z - AlexHormozi - Expert is proclaimed often rarely achievedDef.md",
-    "tweets/2022-02-20T15:35:40.000Z - AlexHormozi - The person with the longest time horizon wins.md",
-    "tweets/2022-02-17T06:49:17.000Z - IAmAndrewKirby - How to create valuable contentThe source of most.md",
-    "tweets/2022-02-16T13:32:25.000Z - AlexHormozi - Advanced people always do the basics.md",
-    "tweets/2022-02-12T14:50:15.000Z - IAmAndrewKirby - All knowledge workers should be parttime content c.md"
+    "tweets/2022-02-24T03:10:28.000Z - IAmAndrewKirby - I dont self promote enough so for those who dont.md"
   ]
 }
