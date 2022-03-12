@@ -11,6 +11,7 @@ Twitter Authors:
 - https://twitter.com/aaditsh
 - https://twitter.com/AlexHormozi
 - https://twitter.com/IAmAndrewKirby
+- https://twitter.com/dickiebush
 - https://twitter.com/jackbutcher
 - https://twitter.com/JamesClear
 - https://twitter.com/naval

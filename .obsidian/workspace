@@ -9,48 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tweets/2022-03-12T13:27:11.000Z - aaditsh - There will always be someone better richer fitterThe healthier competit.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "e56e29f702cae5e3"
-      },
-      {
-        "id": "51aed179d99aa7da",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "tweets/2022-03-12T13:27:11.000Z - aaditsh - There will always be someone better richer fitterThe healthier competit.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "e56e29f702cae5e3"
+        }
       }
     ],
     "direction": "vertical"
@@ -86,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tweets/2022-03-12T13:27:11.000Z - aaditsh - There will always be someone better richer fitterThe healthier competit.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +89,7 @@
   },
   "active": "f0481ff86e1a4aab",
   "lastOpenFiles": [
+    "README.md",
     "tweets/2022-03-12T13:27:11.000Z - aaditsh - There will always be someone better richer fitterThe healthier competit.md",
     "tweets/2022-03-10T17:12:07.000Z - aaditsh - Is it good to be a perfectionist.md",
     "tweets/2022-03-07T20:57:33.000Z - aaditsh - Renting out your time may make you rich But not wealthy.md",
@@ -135,7 +98,6 @@
     "tweets/2022-03-04T07:44:36.000Z - aaditsh - Is it smart to reduce risktaking after moderate success.md",
     "tweets/2022-03-02T19:40:54.000Z - aaditsh - Im trying to figure how to position my email listWhat are your favorite .md",
     "tweets/2022-03-01T17:57:37.000Z - aaditsh - Doing a Product hunt AMA right now Lets talk marketing Twitter online le.md",
-    "tweets/2022-03-01T16:00:02.000Z - aaditsh - I built the Ultimate Guide to TwitterIt took me 1 year to figure everythi.md",
-    "tweets/2022-02-28T21:13:11.000Z - aaditsh - How to reach nearly anyone on TwitterFirstlyYou wont be able to reach.md"
+    "tweets/2022-03-01T16:00:02.000Z - aaditsh - I built the Ultimate Guide to TwitterIt took me 1 year to figure everythi.md"
   ]
 }
