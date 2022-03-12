@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ideas/2022-03-10 08-59-17 Focus on upside rather than downside.md",
+            "file": "tweets/2022-03-03T16:00:00.000Z - JamesClear - Motivation grows with proof of progressOne reason to start with very easy.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "ideas/2022-03-10 08-59-17 Focus on upside rather than downside.md",
+            "file": "tweets/2022-03-03T16:00:00.000Z - JamesClear - Motivation grows with proof of progressOne reason to start with very easy.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:JamesClear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas/2022-03-10 08-59-17 Focus on upside rather than downside.md",
+                "file": "tweets/2022-03-03T16:00:00.000Z - JamesClear - Motivation grows with proof of progressOne reason to start with very easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +126,15 @@
   },
   "active": "f0481ff86e1a4aab",
   "lastOpenFiles": [
-    "ideas/2022-03-10 08-59-17 Focus on upside rather than downside.md",
-    "ideas/2022-03-10 08-57-37 Make the process the reward.md",
-    "ideas/2022-03-10 09-04-18 Crypto will be the money of the future.md",
-    "ideas/2022-03-10 09-04-34 You're going to die so it doesn't matter.md",
-    "ideas/2022-03-10 09-04-16 Money only solves money problems.md",
-    "ideas/2022-03-10 09-14-40 Solve your own problems.md",
-    "ideas/2022-03-10 09-25-41 Don't think about what others think of you.md",
-    "ideas/2022-03-10 09-18-44 Do what feels like play to you.md",
-    "ideas/2022-03-10 09-26-59 Think longterm.md",
-    "ideas/2022-03-12 09-34-01 Work in public.md"
+    "tweets/2022-03-03T16:00:00.000Z - JamesClear - Motivation grows with proof of progressOne reason to start with very easy.md",
+    "tweets/2022-03-02T16:00:01.000Z - JamesClear - Motivation comes and goes If you want to do something consistently then do.md",
+    "tweets/2022-02-28T16:00:00.000Z - JamesClear - Your entire life happens inside your body Its the one home you will always.md",
+    "tweets/2022-02-20T22:08:14.000Z - JamesClear - Interior design questionWhat are some genuinely interesting and unique it.md",
+    "tweets/2022-02-10T17:58:20.000Z - JamesClear - Todays issue of the 321 Newsletter is headed out to over 16 million.md",
+    "tweets/2022-01-14T14:26:42.000Z - JamesClear - The world contains far more information than any single person can learn in .md",
+    "tweets/2022-01-12T19:21:42.000Z - JamesClear - Favor Im looking for examples and stories of times when people were able.md",
+    "tweets/2022-01-02T17:00:31.000Z - JamesClear - 3 ideas to start your year1 You dont rise to the level of your goals Y.md",
+    "tweets/2021-12-31T20:19:48.000Z - JamesClear - Possibly the biggest accomplishment of my career thus far Atomic Habits i.md",
+    "tweets/2021-02-03T16:38:21.000Z - JamesClear - Whenever you are stuck searching for the optimal plan rememberGetting st.md"
   ]
 }
