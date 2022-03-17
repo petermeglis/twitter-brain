@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Leila",
+                "query": "tag:#time",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,12 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 630
+    "width": 551
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -85,15 +84,15 @@
   },
   "active": "f0481ff86e1a4aab",
   "lastOpenFiles": [
-    "tweets/2022-03-12T16:11:23.000Z - LeilaHormozi - Skill without hunger is irrelevant.md",
-    "tweets/2022-03-12T02:48:51.000Z - LeilaHormozi - Work is rest.md",
-    "tweets/2022-03-11T18:09:08.000Z - LeilaHormozi - How to Stay Stuck Try to learn from outsiders rather than your own team.md",
-    "tweets/2022-03-11T15:31:07.000Z - LeilaHormozi - The natural valleys of life are much less painful when you stop assigning me.md",
-    "tweets/2022-03-11T03:14:51.000Z - LeilaHormozi - LOL httpstcoarwdGo4YgZ.md",
-    "tweets/2022-03-10T15:32:57.000Z - LeilaHormozi - Cheap brands are the result of short term thinking.md",
-    "tweets/2022-03-10T15:01:14.000Z - LeilaHormozi - Overwhelm   demand   certaintyIf you want to  overwhelm you can.md",
-    "tweets/2022-03-09T17:53:20.000Z - LeilaHormozi - Should AlexHormozi and I do a show together.md",
-    "tweets/2022-03-09T17:00:30.000Z - LeilaHormozi - If your operator isnt a 1010 your business wont be either.md",
-    "tweets/2022-03-09T16:49:53.000Z - LeilaHormozi - Where operators fail at each levelOperators at 01M AR Belief gt L.md"
+    "ideas/2022-03-10 09-26-59 Think longterm.md",
+    "tweets/2022-03-05T15:41:20.000Z - jackbutcher - your work is valuable your time is priceless.md",
+    "tweets/2022-02-20T15:35:40.000Z - AlexHormozi - The person with the longest time horizon wins.md",
+    "tweets/2022-01-19T18:44:00.000Z - AlexHormozi - You can either learn the easy way or the smart way.md",
+    "tweets/2021-12-29T21:04:47.000Z - AlexHormozi - Money Rule 4 Money loves speed Wealth loves ti.md",
+    "tweets/2021-12-21T13:23:41.000Z - AlexHormozi - How to provide value to people whose time is more v.md",
+    "tweets/2021-12-03T02:26:46.000Z - JamesClear - Think about what you want today and youll spend your timeThink about wha.md",
+    "tweets/2021-11-11T18:52:30.000Z - AlexHormozi - One of my first sales mentors had a banner with TK.md",
+    "tweets/2021-10-27T18:23:01.000Z - AlexHormozi - If money is a denomination of time then everything.md",
+    "tweets/2021-10-22T17:50:00.000Z - JamesClear - Time multiplies whatever you feed it Good habits make time your ally B.md"
   ]
 }
