@@ -7,8 +7,12 @@
         "id": "f0481ff86e1a4aab",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "f0481ff86e1a4aab",
   "lastOpenFiles": [
+    "README.md",
     "ideas/2022-03-10 09-26-59 Think longterm.md",
     "tweets/2022-03-05T15:41:20.000Z - jackbutcher - your work is valuable your time is priceless.md",
     "tweets/2022-02-20T15:35:40.000Z - AlexHormozi - The person with the longest time horizon wins.md",
@@ -92,7 +98,6 @@
     "tweets/2021-12-21T13:23:41.000Z - AlexHormozi - How to provide value to people whose time is more v.md",
     "tweets/2021-12-03T02:26:46.000Z - JamesClear - Think about what you want today and youll spend your timeThink about wha.md",
     "tweets/2021-11-11T18:52:30.000Z - AlexHormozi - One of my first sales mentors had a banner with TK.md",
-    "tweets/2021-10-27T18:23:01.000Z - AlexHormozi - If money is a denomination of time then everything.md",
-    "tweets/2021-10-22T17:50:00.000Z - JamesClear - Time multiplies whatever you feed it Good habits make time your ally B.md"
+    "tweets/2021-10-27T18:23:01.000Z - AlexHormozi - If money is a denomination of time then everything.md"
   ]
 }

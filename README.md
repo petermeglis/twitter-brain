@@ -5,9 +5,9 @@ Synthesizing ideas together from Twitter.
 
 <img width="1091" alt="Screen Shot 2022-03-12 at 11 52 51 AM" src="https://user-images.githubusercontent.com/24641573/158031067-e0fab237-b17c-4e28-af26-0fdd814b26fa.png">
 
-Last Updated: 2022-03-12
+Last Updated: 2022-03-17
 
-Tweet Count: 1161
+Tweet Count: 1483
 
 Twitter Authors:
 - https://twitter.com/aaditsh
@@ -18,6 +18,7 @@ Twitter Authors:
 - https://twitter.com/JamesClear
 - https://twitter.com/LeilaHormozi
 - https://twitter.com/naval
+- https://twitter.com/Philosophy_Qu
 
 # Resources
 Using https://obsidian.md to view the files and make connections.
