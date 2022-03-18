@@ -9,11 +9,48 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "tweets/2022-03-17T11:26:00.000Z - Philosophy_Qu - We lost because we told ourselves we lost Leo Tolstoy.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "42688950f1846804"
+      },
+      {
+        "id": "5f6e7dbd98c37ad8",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "tweets/2022-03-17T11:26:00.000Z - Philosophy_Qu - We lost because we told ourselves we lost Leo Tolstoy.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "42688950f1846804"
       }
     ],
     "direction": "vertical"
@@ -40,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#time",
+                "query": "file: Philosophy_Qu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +86,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "tweets/2022-03-17T11:26:00.000Z - Philosophy_Qu - We lost because we told ourselves we lost Leo Tolstoy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +127,15 @@
   },
   "active": "f0481ff86e1a4aab",
   "lastOpenFiles": [
-    "README.md",
-    "ideas/2022-03-10 09-26-59 Think longterm.md",
-    "tweets/2022-03-05T15:41:20.000Z - jackbutcher - your work is valuable your time is priceless.md",
-    "tweets/2022-02-20T15:35:40.000Z - AlexHormozi - The person with the longest time horizon wins.md",
-    "tweets/2022-01-19T18:44:00.000Z - AlexHormozi - You can either learn the easy way or the smart way.md",
-    "tweets/2021-12-29T21:04:47.000Z - AlexHormozi - Money Rule 4 Money loves speed Wealth loves ti.md",
-    "tweets/2021-12-21T13:23:41.000Z - AlexHormozi - How to provide value to people whose time is more v.md",
-    "tweets/2021-12-03T02:26:46.000Z - JamesClear - Think about what you want today and youll spend your timeThink about wha.md",
-    "tweets/2021-11-11T18:52:30.000Z - AlexHormozi - One of my first sales mentors had a banner with TK.md",
-    "tweets/2021-10-27T18:23:01.000Z - AlexHormozi - If money is a denomination of time then everything.md"
+    "tweets/2022-03-17T11:26:00.000Z - Philosophy_Qu - We lost because we told ourselves we lost Leo Tolstoy.md",
+    "tweets/2022-03-16T11:25:00.000Z - Philosophy_Qu - You cannot open a book without learning something Confucius.md",
+    "tweets/2022-03-13T11:26:00.000Z - Philosophy_Qu - The world will ask you who you are and if you dont know the world will t.md",
+    "tweets/2022-03-12T11:28:00.000Z - Philosophy_Qu - Give even if you only have a little Buddha.md",
+    "tweets/2022-03-11T11:27:00.000Z - Philosophy_Qu - Change is never painful only the resistance to change is painful  Budd.md",
+    "tweets/2022-03-09T11:27:00.000Z - Philosophy_Qu - The most important decision you make is to be in a good mood  Voltaire.md",
+    "tweets/2022-03-08T11:25:00.000Z - Philosophy_Qu - The quieter you become the more you are able to hear Rumi.md",
+    "tweets/2022-03-07T11:25:00.000Z - Philosophy_Qu - Knowing yourself is the beginning of all wisdom Aristotle.md",
+    "tweets/2022-03-06T21:24:27.000Z - Philosophy_Qu - We suffer more often in imagination than in reality Seneca.md",
+    "tweets/2022-03-03T19:57:34.000Z - Philosophy_Qu - The quieter you become the more you are able to hear Rumi.md"
   ]
 }
