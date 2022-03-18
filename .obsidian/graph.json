@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#beliefs",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 12.7270299145299,
   "linkStrength": 1,
   "linkDistance": 202,
-  "scale": 1.8621154232055779,
-  "close": false
+  "scale": 0.14232937077177915,
+  "close": true
 }
