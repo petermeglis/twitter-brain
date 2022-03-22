@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f6e7dbd98c37ad8",
+        "id": "fb349ba0a3e1ed07",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[[2022-03-18 09-57-39 You can choose your mindset]]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468
+    "width": 550
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f6e7dbd98c37ad8",
+  "active": "fb349ba0a3e1ed07",
   "lastOpenFiles": [
-    "README.md",
-    "ideas/2022-03-10 08-57-37 Make the process the reward.md",
-    "tweets/2015-12-22T14:18:06.000Z - LeilaHormozi - When youre at your parents and the eggs are free  thiswassupposedtobea.md",
-    "tweets/2022-02-27T21:09:38.000Z - Philosophy_Qu - A great man is hard on himself a small man is hard on others Confuciu.md",
-    "tweets/2022-01-26T17:30:00.000Z - Philosophy_Qu - A great man is hard on himself a small man is hard on others Confuciu.md",
-    "tweets/2021-12-18T08:30:00.000Z - Philosophy_Qu - A great man is hard on himself a small man is hard on others  Confuci.md",
-    "tweets/2021-11-07T08:30:00.000Z - Philosophy_Qu - A great man is hard on himself a small man is hard on others  Confuci.md",
-    "tweets/2021-09-02T07:30:00.000Z - Philosophy_Qu - A great man is hard on himself a small man is hard on others  Confuci.md",
-    "tweets/2022-02-09T10:40:00.000Z - Philosophy_Qu - A man who fears suffering is already suffering from what he fears Mont.md",
-    "tweets/2021-11-20T08:30:00.000Z - Philosophy_Qu - A man who fears suffering is already suffering from what he fears Mont.md"
+    "[2022-03-18 09-57-39 You can choose your mindset.md",
+    "tweets/2022-02-11T06:59:04.000Z - IAmAndrewKirby - How to get rich without working hardnaval Ful.md",
+    "tweets/2021-11-05T17:02:08.000Z - LeilaHormozi - WHY something happened in the past is less important than what you are going.md",
+    "tweets/2022-02-08T04:22:44.000Z - AlexHormozi - Active businesses are like horcruxes every time yo.md",
+    "tweets/2021-10-14T23:32:17.000Z - naval - When choosing between investments ask yourself w.md",
+    "tweets/2020-12-03T16:38:45.000Z - JamesClear - Just have one good dayThen repeat.md",
+    "tweets/2021-11-26T21:07:40.000Z - naval - Bitcoin is simply a technology that if adopted mo.md",
+    "tweets/2022-01-17T02:22:34.000Z - AlexHormozi - You will grow to the level of your constraints not.md",
+    "tweets/2021-11-24T13:23:38.000Z - AlexHormozi - How to save 113 on your next tax bill in 60sec.md",
+    "tweets/2021-09-16T15:05:14.000Z - LeilaHormozi - Energy management is more important than time management You cannot manage.md"
   ]
 }
