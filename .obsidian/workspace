@@ -7,8 +7,12 @@
         "id": "fb349ba0a3e1ed07",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "tweets/2022-03-23T10:28:00.000Z - Philosophy_Qu - To be normal is the ultimate aim of the unsuccessful  Carl Jung.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[2022-03-18 09-57-39 You can choose your mindset]]",
+                "query": "file:Philosophy_Qu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tweets/2022-03-23T10:28:00.000Z - Philosophy_Qu - To be normal is the ultimate aim of the unsuccessful  Carl Jung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +90,15 @@
   },
   "active": "fb349ba0a3e1ed07",
   "lastOpenFiles": [
-    "[2022-03-18 09-57-39 You can choose your mindset.md",
-    "tweets/2022-02-11T06:59:04.000Z - IAmAndrewKirby - How to get rich without working hardnaval Ful.md",
-    "tweets/2021-11-05T17:02:08.000Z - LeilaHormozi - WHY something happened in the past is less important than what you are going.md",
-    "tweets/2022-02-08T04:22:44.000Z - AlexHormozi - Active businesses are like horcruxes every time yo.md",
-    "tweets/2021-10-14T23:32:17.000Z - naval - When choosing between investments ask yourself w.md",
-    "tweets/2020-12-03T16:38:45.000Z - JamesClear - Just have one good dayThen repeat.md",
-    "tweets/2021-11-26T21:07:40.000Z - naval - Bitcoin is simply a technology that if adopted mo.md",
-    "tweets/2022-01-17T02:22:34.000Z - AlexHormozi - You will grow to the level of your constraints not.md",
-    "tweets/2021-11-24T13:23:38.000Z - AlexHormozi - How to save 113 on your next tax bill in 60sec.md",
-    "tweets/2021-09-16T15:05:14.000Z - LeilaHormozi - Energy management is more important than time management You cannot manage.md"
+    "tweets/2022-03-23T10:28:00.000Z - Philosophy_Qu - To be normal is the ultimate aim of the unsuccessful  Carl Jung.md",
+    "tweets/2022-03-22T20:15:45.000Z - Philosophy_Qu - Its your road and yours alone others may walk it with you but no one ca.md",
+    "tweets/2022-03-21T11:27:00.000Z - Philosophy_Qu - Care about what other people think and you will always be their prisoner.md",
+    "tweets/2022-03-20T11:28:00.000Z - Philosophy_Qu - Tell me and I forget teach me and I may remember involve me and I lear.md",
+    "tweets/2022-03-19T11:25:00.000Z - Philosophy_Qu - The more violent the storm the quicker it passes Paulo Coelho.md",
+    "tweets/2022-03-18T12:25:00.000Z - Philosophy_Qu - If you correct your mind the rest of your life will fall into place L.md",
+    "tweets/2022-03-17T11:26:00.000Z - Philosophy_Qu - We lost because we told ourselves we lost Leo Tolstoy.md",
+    "tweets/2022-03-16T11:25:00.000Z - Philosophy_Qu - You cannot open a book without learning something Confucius.md",
+    "tweets/2022-03-15T11:28:00.000Z - Philosophy_Qu - What you think about yourself is much more important than what others think.md",
+    "tweets/2022-03-14T11:27:00.000Z - Philosophy_Qu - Avoid negative people They have a problem with every solution Albert .md"
   ]
 }
