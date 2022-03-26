@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tweets/2022-03-23T10:28:00.000Z - Philosophy_Qu - To be normal is the ultimate aim of the unsuccessful  Carl Jung.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tweets/2022-03-23T10:28:00.000Z - Philosophy_Qu - To be normal is the ultimate aim of the unsuccessful  Carl Jung.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +89,7 @@
   },
   "active": "fb349ba0a3e1ed07",
   "lastOpenFiles": [
+    "README.md",
     "tweets/2022-03-23T10:28:00.000Z - Philosophy_Qu - To be normal is the ultimate aim of the unsuccessful  Carl Jung.md",
     "tweets/2022-03-22T20:15:45.000Z - Philosophy_Qu - Its your road and yours alone others may walk it with you but no one ca.md",
     "tweets/2022-03-21T11:27:00.000Z - Philosophy_Qu - Care about what other people think and you will always be their prisoner.md",
@@ -98,7 +98,6 @@
     "tweets/2022-03-18T12:25:00.000Z - Philosophy_Qu - If you correct your mind the rest of your life will fall into place L.md",
     "tweets/2022-03-17T11:26:00.000Z - Philosophy_Qu - We lost because we told ourselves we lost Leo Tolstoy.md",
     "tweets/2022-03-16T11:25:00.000Z - Philosophy_Qu - You cannot open a book without learning something Confucius.md",
-    "tweets/2022-03-15T11:28:00.000Z - Philosophy_Qu - What you think about yourself is much more important than what others think.md",
-    "tweets/2022-03-14T11:27:00.000Z - Philosophy_Qu - Avoid negative people They have a problem with every solution Albert .md"
+    "tweets/2022-03-15T11:28:00.000Z - Philosophy_Qu - What you think about yourself is much more important than what others think.md"
   ]
 }
