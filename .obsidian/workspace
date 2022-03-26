@@ -7,12 +7,8 @@
         "id": "fb349ba0a3e1ed07",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Philosophy_Qu",
+                "query": "file:ShaneAParrish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +85,15 @@
   },
   "active": "fb349ba0a3e1ed07",
   "lastOpenFiles": [
-    "README.md",
-    "tweets/2022-03-23T10:28:00.000Z - Philosophy_Qu - To be normal is the ultimate aim of the unsuccessful  Carl Jung.md",
-    "tweets/2022-03-22T20:15:45.000Z - Philosophy_Qu - Its your road and yours alone others may walk it with you but no one ca.md",
-    "tweets/2022-03-21T11:27:00.000Z - Philosophy_Qu - Care about what other people think and you will always be their prisoner.md",
-    "tweets/2022-03-20T11:28:00.000Z - Philosophy_Qu - Tell me and I forget teach me and I may remember involve me and I lear.md",
-    "tweets/2022-03-19T11:25:00.000Z - Philosophy_Qu - The more violent the storm the quicker it passes Paulo Coelho.md",
-    "tweets/2022-03-18T12:25:00.000Z - Philosophy_Qu - If you correct your mind the rest of your life will fall into place L.md",
-    "tweets/2022-03-17T11:26:00.000Z - Philosophy_Qu - We lost because we told ourselves we lost Leo Tolstoy.md",
-    "tweets/2022-03-16T11:25:00.000Z - Philosophy_Qu - You cannot open a book without learning something Confucius.md",
-    "tweets/2022-03-15T11:28:00.000Z - Philosophy_Qu - What you think about yourself is much more important than what others think.md"
+    "ideas/2022-03-26 11-40-28 The people you surround yourself with are important.md",
+    "tweets/2021-01-15T12:57:20.000Z - ShaneAParrish - Surround yourself with people and groups whose default behavior is your goal.md",
+    "tweets/2022-01-11T12:42:21.000Z - ShaneAParrish - You can tell a lot about a person from what they say Smart people don.md",
+    "tweets/2021-08-31T01:02:51.000Z - ShaneAParrish - Removing the wrong relationships from your life are as important as cultivat.md",
+    "tweets/2020-10-30T14:50:06.000Z - simonsinek - Good friends make us better people They cheer us on when we hit bottom and .md",
+    "tweets/2021-06-04T15:01:03.000Z - simonsinek - Good friends make us better people They cheer us on when we hit bottom and .md",
+    "tweets/2021-01-07T18:46:21.000Z - simonsinek - Friendship is an investment not a transaction We dont show up for our fri.md",
+    "tweets/2021-05-16T03:41:33.000Z - naval - Good friends restrain you.md",
+    "ideas/2022-03-17 09-42-59 Value where you spend your attention.md",
+    "tweets/2021-11-23T11:33:18.000Z - dailystoic - The things you think about determine the quality of your mind Your soul ta.md"
   ]
 }
