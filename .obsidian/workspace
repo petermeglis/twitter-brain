@@ -7,8 +7,12 @@
         "id": "fb349ba0a3e1ed07",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:ShaneAParrish",
+                "query": "talk less",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 550
+    "width": 399
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +89,15 @@
   },
   "active": "fb349ba0a3e1ed07",
   "lastOpenFiles": [
-    "ideas/2022-03-26 11-40-28 The people you surround yourself with are important.md",
-    "tweets/2021-01-15T12:57:20.000Z - ShaneAParrish - Surround yourself with people and groups whose default behavior is your goal.md",
-    "tweets/2022-01-11T12:42:21.000Z - ShaneAParrish - You can tell a lot about a person from what they say Smart people don.md",
-    "tweets/2021-08-31T01:02:51.000Z - ShaneAParrish - Removing the wrong relationships from your life are as important as cultivat.md",
-    "tweets/2020-10-30T14:50:06.000Z - simonsinek - Good friends make us better people They cheer us on when we hit bottom and .md",
-    "tweets/2021-06-04T15:01:03.000Z - simonsinek - Good friends make us better people They cheer us on when we hit bottom and .md",
-    "tweets/2021-01-07T18:46:21.000Z - simonsinek - Friendship is an investment not a transaction We dont show up for our fri.md",
-    "tweets/2021-05-16T03:41:33.000Z - naval - Good friends restrain you.md",
-    "ideas/2022-03-17 09-42-59 Value where you spend your attention.md",
-    "tweets/2021-11-23T11:33:18.000Z - dailystoic - The things you think about determine the quality of your mind Your soul ta.md"
+    "README.md",
+    "tweets/2021-07-23T01:37:53.000Z - JamesClear - One of the only true shortcuts in life is finding an expert and apprenticing.md",
+    "tweets/2021-07-22T21:51:37.000Z - naval - Judging others is good for a quick dopamine hit but how long until youre a.md",
+    "tweets/2021-07-22T20:57:03.000Z - naval - Believe in the religion that has no name.md",
+    "tweets/2021-07-22T16:12:44.000Z - JamesClear - I rarely feel rushed when I am working on the most important thingThe act.md",
+    "tweets/2021-07-21T12:33:00.000Z - ShaneAParrish - A simple heuristic to ask yourselfIs this choice going to make the future.md",
+    "tweets/2021-07-16T14:35:02.000Z - simonsinek - The experts are the ones who think they know everything Geniuses are the on.md",
+    "tweets/2021-07-16T14:03:52.000Z - ShaneAParrish - Avoiding stupidity is easier than seeking brilliance.md",
+    "tweets/2021-07-16T11:27:27.000Z - ShaneAParrish - Two simple rules that make saying yes harder and saying no easier 1 Neve.md",
+    "tweets/2021-07-15T20:20:53.000Z - simonsinek - Skills like effective confrontation empathy and patience are not soft skil.md"
   ]
 }
