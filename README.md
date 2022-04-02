@@ -2,13 +2,13 @@
 Synthesizing ideas together from Twitter.
 
 # Current Statistics
-<img width="1164" alt="Screen Shot 2022-03-26 at 11 45 10 AM" src="https://user-images.githubusercontent.com/24641573/160251281-e9e92e55-564b-422b-8bb0-731dcbf26ac6.png">
+<img width="1317" alt="Screen Shot 2022-04-02 at 11 18 53 AM" src="https://user-images.githubusercontent.com/24641573/161394052-d5007340-ce3a-4aa8-a5a1-5593f54668b6.png">
 
-Last Updated: 2022-03-26
+Last Updated: 2022-04-02
 
 Tweet Count: 2929
 
-Common Ideas: 21
+Common Ideas: 23
 
 Twitter Authors:
 - https://twitter.com/aaditsh
