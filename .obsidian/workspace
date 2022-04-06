@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fb349ba0a3e1ed07",
+        "id": "34fe1768e59b8184",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "last_tweets.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0ccf4dcf80a27c2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tweets/2022-04-05T08:13:01.000Z - simonsinek - Whether its with a coworker or a sibling with different political views t.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "talk less",
+                "query": "file:\"simonsinek -\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "last_tweets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb349ba0a3e1ed07",
+  "active": "34fe1768e59b8184",
   "lastOpenFiles": [
-    "README.md",
-    "tweets/2021-07-23T01:37:53.000Z - JamesClear - One of the only true shortcuts in life is finding an expert and apprenticing.md",
-    "tweets/2021-07-22T21:51:37.000Z - naval - Judging others is good for a quick dopamine hit but how long until youre a.md",
-    "tweets/2021-07-22T20:57:03.000Z - naval - Believe in the religion that has no name.md",
-    "tweets/2021-07-22T16:12:44.000Z - JamesClear - I rarely feel rushed when I am working on the most important thingThe act.md",
-    "tweets/2021-07-21T12:33:00.000Z - ShaneAParrish - A simple heuristic to ask yourselfIs this choice going to make the future.md",
-    "tweets/2021-07-16T14:35:02.000Z - simonsinek - The experts are the ones who think they know everything Geniuses are the on.md",
-    "tweets/2021-07-16T14:03:52.000Z - ShaneAParrish - Avoiding stupidity is easier than seeking brilliance.md",
-    "tweets/2021-07-16T11:27:27.000Z - ShaneAParrish - Two simple rules that make saying yes harder and saying no easier 1 Neve.md",
-    "tweets/2021-07-15T20:20:53.000Z - simonsinek - Skills like effective confrontation empathy and patience are not soft skil.md"
+    "last_tweets.md",
+    "tweets/2022-04-05T08:13:01.000Z - simonsinek - Whether its with a coworker or a sibling with different political views t.md",
+    "tweets/2022-04-06T11:58:58.000Z - ShaneAParrish - My conversation with balajis Learn about The pros and cons of establis.md",
+    "tweets/2022-04-05T19:20:39.000Z - Philosophy_Qu - A mistake repeated more than once is a decision Paulo Coelho.md",
+    "tweets/2022-04-06T14:30:00.000Z - NavalismHQ - Selfless ideas spread the furthestnaval.md",
+    "tweets/2022-04-04T08:30:09.000Z - naval - Whenever you find yourself on the side of Twitter Moments it is time to pau.md",
+    "tweets/2022-04-06T14:24:50.000Z - LeilaHormozi - Experience is really just advanced pattern recognitionDo something enough.md",
+    "tweets/2022-04-06T13:45:42.000Z - jordanbpeterson - Free speech is more than just a freedom From my address at Caius College.md",
+    "tweets/2022-04-03T16:13:28.000Z - JBPetersonQuote - All you have is the truth and so you need to be afraid of the right t.md",
+    "tweets/2022-03-23T14:00:02.000Z - JamesClear - If one worldview dominates your thinking youll explain every situation in .md"
   ]
 }
