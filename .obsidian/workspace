@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34fe1768e59b8184",
+        "id": "64056055ef294c36",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "last_tweets.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0ccf4dcf80a27c2a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "tweets/2022-04-05T08:13:01.000Z - simonsinek - Whether its with a coworker or a sibling with different political views t.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -52,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:\"simonsinek -\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 399
+    "width": 327
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -82,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "last_tweets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "34fe1768e59b8184",
+  "active": "64056055ef294c36",
   "lastOpenFiles": [
-    "last_tweets.md",
-    "tweets/2022-04-05T08:13:01.000Z - simonsinek - Whether its with a coworker or a sibling with different political views t.md",
-    "tweets/2022-04-06T11:58:58.000Z - ShaneAParrish - My conversation with balajis Learn about The pros and cons of establis.md",
-    "tweets/2022-04-05T19:20:39.000Z - Philosophy_Qu - A mistake repeated more than once is a decision Paulo Coelho.md",
-    "tweets/2022-04-06T14:30:00.000Z - NavalismHQ - Selfless ideas spread the furthestnaval.md",
-    "tweets/2022-04-04T08:30:09.000Z - naval - Whenever you find yourself on the side of Twitter Moments it is time to pau.md",
-    "tweets/2022-04-06T14:24:50.000Z - LeilaHormozi - Experience is really just advanced pattern recognitionDo something enough.md",
-    "tweets/2022-04-06T13:45:42.000Z - jordanbpeterson - Free speech is more than just a freedom From my address at Caius College.md",
-    "tweets/2022-04-03T16:13:28.000Z - JBPetersonQuote - All you have is the truth and so you need to be afraid of the right t.md",
-    "tweets/2022-03-23T14:00:02.000Z - JamesClear - If one worldview dominates your thinking youll explain every situation in .md"
+    "tweets/2022-02-02T17:47:10.000Z - JBPetersonQuote - Words are Authority words are a legitimate Authority And so without havi.md",
+    "tweets/2022-01-11T22:10:50.000Z - JBPetersonQuote - You have a responsibility to those whom you love amp are obligated to to .md",
+    "tweets/2021-11-12T03:13:03.000Z - JBPetersonQuote - You can take on too much responsibility you have to be cautious in that reg.md",
+    "tweets/2021-10-21T20:15:24.000Z - JBPetersonQuote - Look at who you spontaneously admire  which is a good indication of where y.md",
+    "tweets/2021-04-26T04:21:56.000Z - JBPetersonQuote - Freedom without concern for medium to longterm consequences of your action.md",
+    "tweets/2021-03-01T01:07:59.000Z - JBPetersonQuote - You have an ethical responsibility as a citizen to forthrightly confront cr.md",
+    "tweets/2021-02-13T01:48:07.000Z - JBPetersonQuote - What are you leaving out if youre leaving out responsibility And the answ.md",
+    "tweets/2020-10-16T03:31:08.000Z - JBPetersonQuote - The alternative to valued responsibility is impulsive lowclass pleasure .md",
+    "tweets/2020-09-12T16:16:34.000Z - JBPetersonQuote - Whats the best thing you can do Transcend your current wretched and miser.md",
+    "tweets/2020-08-13T20:21:39.000Z - JBPetersonQuote - You cant have the conversation about rights without the conversation about .md"
   ]
 }
