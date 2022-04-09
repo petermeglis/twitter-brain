@@ -7,9 +7,50 @@
         "id": "64056055ef294c36",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "tweets/2022-03-27T07:09:59.000Z - IAmAndrewKirby - We suffer more in imagination than in reality  Seneca.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "a17622abcbe29fd2"
+      },
+      {
+        "id": "e9246f77f561f409",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "tweets/2022-03-27T07:09:59.000Z - IAmAndrewKirby - We suffer more in imagination than in reality  Seneca.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "a17622abcbe29fd2"
       }
     ],
     "direction": "vertical"
@@ -36,20 +77,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "suffer",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 697
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -65,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tweets/2022-03-27T07:09:59.000Z - IAmAndrewKirby - We suffer more in imagination than in reality  Seneca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +127,15 @@
   },
   "active": "64056055ef294c36",
   "lastOpenFiles": [
-    "tweets/2022-02-02T17:47:10.000Z - JBPetersonQuote - Words are Authority words are a legitimate Authority And so without havi.md",
-    "tweets/2022-01-11T22:10:50.000Z - JBPetersonQuote - You have a responsibility to those whom you love amp are obligated to to .md",
-    "tweets/2021-11-12T03:13:03.000Z - JBPetersonQuote - You can take on too much responsibility you have to be cautious in that reg.md",
-    "tweets/2021-10-21T20:15:24.000Z - JBPetersonQuote - Look at who you spontaneously admire  which is a good indication of where y.md",
-    "tweets/2021-04-26T04:21:56.000Z - JBPetersonQuote - Freedom without concern for medium to longterm consequences of your action.md",
-    "tweets/2021-03-01T01:07:59.000Z - JBPetersonQuote - You have an ethical responsibility as a citizen to forthrightly confront cr.md",
-    "tweets/2021-02-13T01:48:07.000Z - JBPetersonQuote - What are you leaving out if youre leaving out responsibility And the answ.md",
-    "tweets/2020-10-16T03:31:08.000Z - JBPetersonQuote - The alternative to valued responsibility is impulsive lowclass pleasure .md",
-    "tweets/2020-09-12T16:16:34.000Z - JBPetersonQuote - Whats the best thing you can do Transcend your current wretched and miser.md",
-    "tweets/2020-08-13T20:21:39.000Z - JBPetersonQuote - You cant have the conversation about rights without the conversation about .md"
+    "tweets/2022-03-27T07:09:59.000Z - IAmAndrewKirby - We suffer more in imagination than in reality  Seneca.md",
+    "tweets/2022-03-18T22:11:35.000Z - jordanbpeterson - What do you want to tell a young person Youre 17 Youre okay the way you.md",
+    "tweets/2022-03-18T15:49:00.000Z - NavalismHQ - You cant get rid of suffering until you get rid of joy Theyre just oppos.md",
+    "tweets/2022-03-16T14:00:00.000Z - JamesClear - Define yourself by your effort not your suffering.md",
+    "tweets/2022-03-16T13:39:22.000Z - LeilaHormozi - Much suffering in life comes from the pursuit of normalcy.md",
+    "tweets/2022-03-06T21:24:27.000Z - Philosophy_Qu - We suffer more often in imagination than in reality Seneca.md",
+    "tweets/2022-02-28T20:01:03.000Z - dailystoic - We suffer more in imagination than in reality Seneca.md",
+    "tweets/2022-02-25T14:01:04.000Z - dailystoic - Theres nothing more insufferable than people who boast about their own hum.md",
+    "tweets/2022-02-23T23:44:00.000Z - NavalismHQ - Pain is a fact Suffering is a choicenaval.md",
+    "tweets/2022-02-19T12:05:34.000Z - Philosophy_Qu - The root of all suffering is attachment Buddha.md"
   ]
 }
