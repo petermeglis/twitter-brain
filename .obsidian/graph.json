@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "file:JBPetersonQuote",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 12.7270299145299,
   "linkStrength": 1,
   "linkDistance": 202,
-  "scale": 0.08068016295154647,
-  "close": true
+  "scale": 0.2171315458123906,
+  "close": false
 }

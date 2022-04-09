@@ -9,48 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tweets/2022-03-27T07:09:59.000Z - IAmAndrewKirby - We suffer more in imagination than in reality  Seneca.md",
+            "file": "last_tweets.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "a17622abcbe29fd2"
-      },
-      {
-        "id": "e9246f77f561f409",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "tweets/2022-03-27T07:09:59.000Z - IAmAndrewKirby - We suffer more in imagination than in reality  Seneca.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "a17622abcbe29fd2"
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "suffer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 697
+    "width": 386
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -107,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tweets/2022-03-27T07:09:59.000Z - IAmAndrewKirby - We suffer more in imagination than in reality  Seneca.md",
+                "file": "last_tweets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +89,15 @@
   },
   "active": "64056055ef294c36",
   "lastOpenFiles": [
+    "last_tweets.md",
+    "README.md",
+    "tweets/2020-05-19T04:45:11.000Z - JBPetersonQuote - Fix the things that are within your realm of power httpstcocKEZEI46F.md",
+    "tweets/2020-06-11T18:00:53.000Z - JBPetersonQuote - Here you are suffering away What makes it worthwhile Rights You know.md",
     "tweets/2022-03-27T07:09:59.000Z - IAmAndrewKirby - We suffer more in imagination than in reality  Seneca.md",
     "tweets/2022-03-18T22:11:35.000Z - jordanbpeterson - What do you want to tell a young person Youre 17 Youre okay the way you.md",
     "tweets/2022-03-18T15:49:00.000Z - NavalismHQ - You cant get rid of suffering until you get rid of joy Theyre just oppos.md",
     "tweets/2022-03-16T14:00:00.000Z - JamesClear - Define yourself by your effort not your suffering.md",
     "tweets/2022-03-16T13:39:22.000Z - LeilaHormozi - Much suffering in life comes from the pursuit of normalcy.md",
-    "tweets/2022-03-06T21:24:27.000Z - Philosophy_Qu - We suffer more often in imagination than in reality Seneca.md",
-    "tweets/2022-02-28T20:01:03.000Z - dailystoic - We suffer more in imagination than in reality Seneca.md",
-    "tweets/2022-02-25T14:01:04.000Z - dailystoic - Theres nothing more insufferable than people who boast about their own hum.md",
-    "tweets/2022-02-23T23:44:00.000Z - NavalismHQ - Pain is a fact Suffering is a choicenaval.md",
-    "tweets/2022-02-19T12:05:34.000Z - Philosophy_Qu - The root of all suffering is attachment Buddha.md"
+    "tweets/2022-03-06T21:24:27.000Z - Philosophy_Qu - We suffer more often in imagination than in reality Seneca.md"
   ]
 }
