@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "last_tweets.md",
+            "file": "tweets/2022-04-04T17:32:33.000Z - jordanbpeterson - 42 Rules for Life1 Tell the truth or at least dont lieTruth reduc.md",
             "mode": "source",
             "source": false
           }
@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "action",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 623
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "last_tweets.md",
+                "file": "tweets/2022-04-04T17:32:33.000Z - jordanbpeterson - 42 Rules for Life1 Tell the truth or at least dont lieTruth reduc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "64056055ef294c36",
   "lastOpenFiles": [
-    "last_tweets.md",
-    "README.md",
-    "tweets/2020-05-19T04:45:11.000Z - JBPetersonQuote - Fix the things that are within your realm of power httpstcocKEZEI46F.md",
-    "tweets/2020-06-11T18:00:53.000Z - JBPetersonQuote - Here you are suffering away What makes it worthwhile Rights You know.md",
-    "tweets/2022-03-27T07:09:59.000Z - IAmAndrewKirby - We suffer more in imagination than in reality  Seneca.md",
-    "tweets/2022-03-18T22:11:35.000Z - jordanbpeterson - What do you want to tell a young person Youre 17 Youre okay the way you.md",
-    "tweets/2022-03-18T15:49:00.000Z - NavalismHQ - You cant get rid of suffering until you get rid of joy Theyre just oppos.md",
-    "tweets/2022-03-16T14:00:00.000Z - JamesClear - Define yourself by your effort not your suffering.md",
-    "tweets/2022-03-16T13:39:22.000Z - LeilaHormozi - Much suffering in life comes from the pursuit of normalcy.md",
-    "tweets/2022-03-06T21:24:27.000Z - Philosophy_Qu - We suffer more often in imagination than in reality Seneca.md"
+    "tweets/2022-04-04T17:32:33.000Z - jordanbpeterson - 42 Rules for Life1 Tell the truth or at least dont lieTruth reduc.md",
+    "tweets/2022-04-03T08:10:00.000Z - NavalismHQ - Impatience with actions patience with resultsnaval.md",
+    "tweets/2022-04-01T14:49:00.000Z - NavalismHQ - If it entertains you now but will bore you someday its a distraction Kee.md",
+    "tweets/2022-03-29T18:37:20.000Z - Philosophy_Qu - The purpose of knowledge is action not knowledge  Aristotle.md",
+    "tweets/2022-03-29T00:50:42.000Z - jordanbpeterson - THIS DIDNT GO WELL JORDAN PETERSON THE GENDER PAY GAP REACTION https.md",
+    "tweets/2022-03-28T20:01:03.000Z - dailystoic - What should we work forOnly this proper understanding unselfish action.md",
+    "tweets/2022-03-27T15:10:00.000Z - NavalismHQ - You dont need mentors you need actionnaval.md",
+    "tweets/2022-03-26T20:01:05.000Z - 48_quotes - People feel superior to the person whose actions they can predictIf you s.md",
+    "tweets/2022-03-26T08:00:30.000Z - 48_quotes - People feel superior to the person whose actions they can predict.md",
+    "tweets/2022-03-26T05:00:00.000Z - NavalismHQ - Intentions dont matter Actions do Thats why being ethical is hardn.md"
   ]
 }
