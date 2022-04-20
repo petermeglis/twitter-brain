@@ -2,9 +2,9 @@
 Synthesizing ideas together from Twitter.
 
 # Current Statistics
-<img width="1337" alt="Screen Shot 2022-04-09 at 12 00 50 PM" src="https://user-images.githubusercontent.com/24641573/162586109-c4b560f3-4cd8-4c09-8c98-7bcea610fb03.png">
+<img width="936" alt="Screen Shot 2022-04-20 at 9 30 02 AM" src="https://user-images.githubusercontent.com/24641573/164267648-14b8aa26-3ebd-4445-9b75-f88cdedd54e8.png">
 
-Last Updated: 2022-04-09
+Last Updated: 2022-04-20
 
 Tweet Count: 4809
 
