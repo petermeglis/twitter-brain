@@ -7,12 +7,8 @@
         "id": "64056055ef294c36",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "tweets/2022-04-04T17:32:33.000Z - jordanbpeterson - 42 Rules for Life1 Tell the truth or at least dont lieTruth reduc.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "action",
+                "query": "say \"no\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623
+    "width": 515
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tweets/2022-04-04T17:32:33.000Z - jordanbpeterson - 42 Rules for Life1 Tell the truth or at least dont lieTruth reduc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "64056055ef294c36",
   "lastOpenFiles": [
-    "tweets/2022-04-04T17:32:33.000Z - jordanbpeterson - 42 Rules for Life1 Tell the truth or at least dont lieTruth reduc.md",
-    "tweets/2022-04-03T08:10:00.000Z - NavalismHQ - Impatience with actions patience with resultsnaval.md",
-    "tweets/2022-04-01T14:49:00.000Z - NavalismHQ - If it entertains you now but will bore you someday its a distraction Kee.md",
-    "tweets/2022-03-29T18:37:20.000Z - Philosophy_Qu - The purpose of knowledge is action not knowledge  Aristotle.md",
-    "tweets/2022-03-29T00:50:42.000Z - jordanbpeterson - THIS DIDNT GO WELL JORDAN PETERSON THE GENDER PAY GAP REACTION https.md",
-    "tweets/2022-03-28T20:01:03.000Z - dailystoic - What should we work forOnly this proper understanding unselfish action.md",
-    "tweets/2022-03-27T15:10:00.000Z - NavalismHQ - You dont need mentors you need actionnaval.md",
-    "tweets/2022-03-26T20:01:05.000Z - 48_quotes - People feel superior to the person whose actions they can predictIf you s.md",
-    "tweets/2022-03-26T08:00:30.000Z - 48_quotes - People feel superior to the person whose actions they can predict.md",
-    "tweets/2022-03-26T05:00:00.000Z - NavalismHQ - Intentions dont matter Actions do Thats why being ethical is hardn.md"
+    "tweets/2022-03-27T01:06:00.000Z - NavalismHQ - The truest way to decline is just to say it doesnt feel right to me .md",
+    "tweets/2021-09-09T00:14:41.000Z - JBPetersonQuote - Learn how to say no when you need to say no httpstcofoz1UwtzwK.md",
+    "tweets/2022-01-24T17:14:02.000Z - LeilaHormozi - Saying NO is a muscle many never learn how to flex.md",
+    "tweets/2022-01-27T15:22:17.000Z - jackbutcher - focus compounds faster than money.md",
+    "tweets/2022-02-18T03:34:43.000Z - LeilaHormozi - The reason growing a business is so hard is that the habits that get us to o.md",
+    "tweets/2021-01-26T16:24:19.000Z - JamesClear - To become successful default to saying yes to opportunitiesTo remain suc.md",
+    "tweets/2022-01-18T15:48:54.000Z - AlexHormozi - When we were in our most intense growth phase  I committed to a season of .md",
+    "tweets/2022-03-04T18:10:42.000Z - LeilaHormozi - Strategy is saying Yes to one thing and saying No to every other.md",
+    "tweets/2022-04-03T02:13:17.000Z - AlexHormozi - Marketing in a nutshellSay what no one else can say Show what no one els.md",
+    "tweets/2022-03-27T07:08:00.000Z - NavalismHQ - Fast lift sprint stretch and meditateBuild sell write create inves.md"
   ]
 }
