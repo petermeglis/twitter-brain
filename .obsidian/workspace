@@ -7,8 +7,12 @@
         "id": "64056055ef294c36",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "tweets/2022-03-27T08:00:32.000Z - 48_quotes - If you find yourself in a lowly position that offers little opportunity for .md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "say \"no\"",
+                "query": "\"How to stay poor\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 515
+    "width": 682
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tweets/2022-03-27T08:00:32.000Z - 48_quotes - If you find yourself in a lowly position that offers little opportunity for .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "64056055ef294c36",
   "lastOpenFiles": [
+    "tweets/2022-03-27T08:00:32.000Z - 48_quotes - If you find yourself in a lowly position that offers little opportunity for .md",
+    "tweets/2022-03-27T07:09:59.000Z - IAmAndrewKirby - We suffer more in imagination than in reality  Seneca.md",
+    "tweets/2022-03-27T07:08:00.000Z - NavalismHQ - Fast lift sprint stretch and meditateBuild sell write create inves.md",
+    "tweets/2022-03-27T05:07:00.000Z - NavalismHQ - A happy person isnt someone whos happy all the time Its someone who e.md",
+    "tweets/2022-03-27T03:07:00.000Z - NavalismHQ - Get what you wantDont want what you cantnaval.md",
+    "tweets/2022-03-27T01:48:23.000Z - AlexHormozi - Dichotomy of making moneyThe easiest way to overdeliver is to lower your .md",
+    "tweets/2022-03-27T01:42:38.000Z - LeilaHormozi - Actual conversationMe I love youAlex I feel like that makes sense.md",
+    "tweets/2022-03-27T01:29:08.000Z - LeilaHormozi - Date night AlexHormozi httpstco2tUfcw9yWC.md",
     "tweets/2022-03-27T01:06:00.000Z - NavalismHQ - The truest way to decline is just to say it doesnt feel right to me .md",
-    "tweets/2021-09-09T00:14:41.000Z - JBPetersonQuote - Learn how to say no when you need to say no httpstcofoz1UwtzwK.md",
-    "tweets/2022-01-24T17:14:02.000Z - LeilaHormozi - Saying NO is a muscle many never learn how to flex.md",
-    "tweets/2022-01-27T15:22:17.000Z - jackbutcher - focus compounds faster than money.md",
-    "tweets/2022-02-18T03:34:43.000Z - LeilaHormozi - The reason growing a business is so hard is that the habits that get us to o.md",
-    "tweets/2021-01-26T16:24:19.000Z - JamesClear - To become successful default to saying yes to opportunitiesTo remain suc.md",
-    "tweets/2022-01-18T15:48:54.000Z - AlexHormozi - When we were in our most intense growth phase  I committed to a season of .md",
-    "tweets/2022-03-04T18:10:42.000Z - LeilaHormozi - Strategy is saying Yes to one thing and saying No to every other.md",
-    "tweets/2022-04-03T02:13:17.000Z - AlexHormozi - Marketing in a nutshellSay what no one else can say Show what no one els.md",
-    "tweets/2022-03-27T07:08:00.000Z - NavalismHQ - Fast lift sprint stretch and meditateBuild sell write create inves.md"
+    "tweets/2022-03-27T00:51:45.000Z - IAmAndrewKirby - Are you a knowledge worker.md"
   ]
 }
