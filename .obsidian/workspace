@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "last_tweets.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"How to stay poor\"",
+                "query": "1521919589860483074",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "last_tweets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,7 @@
   },
   "active": "64056055ef294c36",
   "lastOpenFiles": [
+    "last_tweets.md",
     "README.md",
     "ideas/2022-05-05 09-04-01 T.md",
     "tweets/2022-04-04T17:32:33.000Z - jordanbpeterson - 42 Rules for Life1 Tell the truth or at least dont lieTruth reduc.md",
@@ -97,7 +99,6 @@
     "tweets/2022-04-04T18:19:00.000Z - NavalismHQ - Be patient it takes 10 years to build a career in anythingnaval.md",
     "tweets/2022-04-04T18:58:37.000Z - dailystoic - You could leave life right now Let that determine what you do and say and .md",
     "tweets/2022-04-04T20:01:02.000Z - 48_quotes - An air of mystery can make the mediocre appear intelligent and profound.md",
-    "tweets/2022-04-04T20:20:00.000Z - NavalismHQ - Your profile photo is how you see yourself and your background image is wha.md",
-    "tweets/2022-04-04T20:53:43.000Z - Philosophy_Qu - What we think we become  Buddha.md"
+    "tweets/2022-04-04T20:20:00.000Z - NavalismHQ - Your profile photo is how you see yourself and your background image is wha.md"
   ]
 }
