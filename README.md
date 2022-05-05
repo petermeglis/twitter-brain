@@ -2,11 +2,11 @@
 Synthesizing ideas together from Twitter.
 
 # Current Statistics
-<img width="936" alt="Screen Shot 2022-04-20 at 9 30 02 AM" src="https://user-images.githubusercontent.com/24641573/164267648-14b8aa26-3ebd-4445-9b75-f88cdedd54e8.png">
+<img width="935" alt="Screen Shot 2022-05-05 at 9 39 09 AM" src="https://user-images.githubusercontent.com/24641573/166960430-87e29d4b-f7fd-4a58-9f88-fb88be710af7.png">
 
-Last Updated: 2022-04-20
+Last Updated: 2022-05-05
 
-Tweet Count: 4809
+Tweet Count: 6107
 
 Common Ideas: 23
 
