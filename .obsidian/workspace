@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64056055ef294c36",
+        "id": "11cde271caa473bd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "tweets/2022-04-08T18:15:01.000Z - AlexHormozi - If you want to manage make rulesIf you want to lead enforce values.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,20 +36,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1521919589860483074",
+                "query": "tag:#creativity",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 682
+    "width": 353
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tweets/2022-04-08T18:15:01.000Z - AlexHormozi - If you want to manage make rulesIf you want to lead enforce values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64056055ef294c36",
+  "active": "11cde271caa473bd",
   "lastOpenFiles": [
-    "tweets/2022-04-08T18:15:01.000Z - AlexHormozi - If you want to manage make rulesIf you want to lead enforce values.md",
-    "tweets/2022-04-08T18:07:47.000Z - jordanbpeterson - Last call for tickets to my show in Kitchener Ontario on May 25th   https.md",
-    "tweets/2022-04-08T18:06:31.000Z - jordanbpeterson - Last call for tickets to my show in Peoria Illinois on May 16th   https.md",
-    "tweets/2022-04-08T18:05:04.000Z - jordanbpeterson - Last call for tickets to my show in Saskatoon Saskatchewan on May 10th   h.md",
-    "tweets/2022-04-08T18:04:04.000Z - jordanbpeterson - Last call for tickets to my show in Phoenix Arizona on April 24th   https.md",
-    "tweets/2022-04-08T18:03:06.000Z - jordanbpeterson - Last call for tickets to my show in San Jose California on April 18th   ht.md",
-    "tweets/2022-04-08T18:02:09.000Z - jordanbpeterson - Last call for tickets to my show in St Louis Missouri on April 14th   http.md",
-    "tweets/2022-04-08T18:01:54.000Z - jordanbpeterson - Last call for tickets to my show in Chicago Illinois on April 12th   https.md",
-    "tweets/2022-04-08T17:58:00.000Z - NavalismHQ - Imagine how effective you would be if you werent anxious all the time.md",
-    "tweets/2022-04-08T17:01:10.000Z - dailystoic - Think of yourself as dead you have lived your life Now take whats left a.md"
+    "tweets/2022-02-16T13:57:56.000Z - dickiebush - 2 things I learned from Charlie Munger Everything good comes from compou.md",
+    "tweets/2021-10-26T11:15:00.000Z - ShaneAParrish - It is easy to convince yourself that you should learn more before taking act.md",
+    "tweets/2022-03-06T22:27:00.000Z - NavalismHQ - Behind every successful entrepreneur is a former failed selfnaval.md",
+    "tweets/2021-01-27T15:49:50.000Z - JamesClear - Fear of failure is higher when youre not working on the problem If you a.md",
+    "tweets/2022-03-12T02:42:53.000Z - AlexHormozi - How to stay poorFail once Quit forever.md",
+    "tweets/2022-01-17T16:59:38.000Z - LeilaHormozi - If youre unsure what business to start ask yourself What would be wort.md",
+    "tweets/2022-03-26T23:29:12.000Z - AlexHormozi - Regret hurts more than failure.md",
+    "tweets/2022-03-26T16:24:15.000Z - LeilaHormozi - Defeat is really the first step to something better.md",
+    "tweets/2022-03-25T14:53:01.000Z - simonsinek - We dont learn much when things go rightIts when things go wrong that we.md",
+    "tweets/2022-01-04T16:17:12.000Z - AlexHormozi - When youre a solopreneur you dont really have failed businesses you have .md"
   ]
 }
