@@ -2,13 +2,13 @@
 Synthesizing ideas together from Twitter.
 
 # Current Statistics
-<img width="935" alt="Screen Shot 2022-05-05 at 9 39 09 AM" src="https://user-images.githubusercontent.com/24641573/166960430-87e29d4b-f7fd-4a58-9f88-fb88be710af7.png">
+<img width="1211" alt="Screen Shot 2022-05-21 at 11 40 36 AM" src="https://user-images.githubusercontent.com/24641573/169663217-95cbff62-83e5-4315-be56-e7816be7ded0.png">
 
-Last Updated: 2022-05-05
+Last Updated: 2022-05-21
 
 Tweet Count: 6107
 
-Common Ideas: 23
+Common Ideas: 35
 
 Twitter Authors:
 - https://twitter.com/48_quotes
