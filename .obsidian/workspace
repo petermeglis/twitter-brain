@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "11cde271caa473bd",
+        "id": "d9b26cbcd82c4b39",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "graph",
-          "state": {}
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -36,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#creativity",
+                "query": "do the boring work",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -50,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 522
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -83,17 +85,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11cde271caa473bd",
+  "active": "d9b26cbcd82c4b39",
   "lastOpenFiles": [
-    "tweets/2022-02-16T13:57:56.000Z - dickiebush - 2 things I learned from Charlie Munger Everything good comes from compou.md",
-    "tweets/2021-10-26T11:15:00.000Z - ShaneAParrish - It is easy to convince yourself that you should learn more before taking act.md",
-    "tweets/2022-03-06T22:27:00.000Z - NavalismHQ - Behind every successful entrepreneur is a former failed selfnaval.md",
-    "tweets/2021-01-27T15:49:50.000Z - JamesClear - Fear of failure is higher when youre not working on the problem If you a.md",
-    "tweets/2022-03-12T02:42:53.000Z - AlexHormozi - How to stay poorFail once Quit forever.md",
-    "tweets/2022-01-17T16:59:38.000Z - LeilaHormozi - If youre unsure what business to start ask yourself What would be wort.md",
-    "tweets/2022-03-26T23:29:12.000Z - AlexHormozi - Regret hurts more than failure.md",
-    "tweets/2022-03-26T16:24:15.000Z - LeilaHormozi - Defeat is really the first step to something better.md",
-    "tweets/2022-03-25T14:53:01.000Z - simonsinek - We dont learn much when things go rightIts when things go wrong that we.md",
-    "tweets/2022-01-04T16:17:12.000Z - AlexHormozi - When youre a solopreneur you dont really have failed businesses you have .md"
+    "tweets/2021-12-11T13:40:04.000Z - dailystoic - On todays episode of the Podcast RyanHoliday talks to CatBaabMuguira abou.md",
+    "tweets/2020-01-10T18:58:17.000Z - simonsinek - Love  service To serve another is an act of love And to love someone is t.md",
+    "tweets/2022-02-19T21:12:00.000Z - NavalismHQ - Teaching is more a way for the teacher to learn than for the student to lea.md",
+    "tweets/2022-04-08T13:00:02.000Z - aaditsh - My Twitter is the most valuable asset Ive invested in financial and nonfi.md",
+    "tweets/2022-04-16T20:10:01.000Z - jackbutcher - the utility is the promise of utility.md",
+    "tweets/2021-08-19T00:04:46.000Z - JBPetersonQuote - The pursuit of impulsive pleasure is one route to totalitarianism and slaver.md",
+    "tweets/2021-01-02T01:10:20.000Z - JBPetersonQuote - Take a bit of a look at yourself and think about whats not so good that yo.md",
+    "tweets/2022-01-24T02:05:51.000Z - naval - Good product branding is good art  a little subversive and a little radical.md",
+    "tweets/2021-10-08T15:29:37.000Z - AlexHormozi - Most people suck at most things especially the things they think theyre go.md",
+    "tweets/2021-08-29T07:30:00.000Z - Philosophy_Qu - The measure of a man is what he does with power Plato.md"
   ]
 }
