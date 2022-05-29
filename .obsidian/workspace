@@ -4,12 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d9b26cbcd82c4b39",
+        "id": "c5c0d0bdb01969f6",
         "type": "leaf",
         "pinned": true,
         "state": {
-          "type": "graph",
-          "state": {},
+          "type": "localgraph",
+          "state": {
+            "file": "ideas/2022-05-29 09-12-39 You need something to aim at.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 2.8121126277128994,
+              "close": false
+            }
+          },
           "pinned": true
         }
       }
@@ -38,21 +65,20 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "do the boring work",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 522
+    "width": 544
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -68,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ideas/2022-05-29 09-12-39 You need something to aim at.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9b26cbcd82c4b39",
+  "active": "c5c0d0bdb01969f6",
   "lastOpenFiles": [
-    "tweets/2021-12-11T13:40:04.000Z - dailystoic - On todays episode of the Podcast RyanHoliday talks to CatBaabMuguira abou.md",
-    "tweets/2020-01-10T18:58:17.000Z - simonsinek - Love  service To serve another is an act of love And to love someone is t.md",
-    "tweets/2022-02-19T21:12:00.000Z - NavalismHQ - Teaching is more a way for the teacher to learn than for the student to lea.md",
-    "tweets/2022-04-08T13:00:02.000Z - aaditsh - My Twitter is the most valuable asset Ive invested in financial and nonfi.md",
-    "tweets/2022-04-16T20:10:01.000Z - jackbutcher - the utility is the promise of utility.md",
-    "tweets/2021-08-19T00:04:46.000Z - JBPetersonQuote - The pursuit of impulsive pleasure is one route to totalitarianism and slaver.md",
-    "tweets/2021-01-02T01:10:20.000Z - JBPetersonQuote - Take a bit of a look at yourself and think about whats not so good that yo.md",
-    "tweets/2022-01-24T02:05:51.000Z - naval - Good product branding is good art  a little subversive and a little radical.md",
-    "tweets/2021-10-08T15:29:37.000Z - AlexHormozi - Most people suck at most things especially the things they think theyre go.md",
-    "tweets/2021-08-29T07:30:00.000Z - Philosophy_Qu - The measure of a man is what he does with power Plato.md"
+    "ideas/2022-05-29 09-12-39 You need something to aim at.md",
+    "tweets/2022-03-09T01:51:58.000Z - JBPetersonQuote - Dont underestimate the power of vision and direction These are irresistibl.md",
+    "tweets/2022-03-03T03:42:13.000Z - JBPetersonQuote - To tell people even something like Well you should feel good about yourse.md",
+    "tweets/2022-02-20T11:16:00.000Z - NavalismHQ - You have to pick something big to work on because its hard to commit your.md",
+    "tweets/2022-02-08T14:01:05.000Z - dailystoic - Yes you canif you do everything as if it were the last thing you were doi.md",
+    "tweets/2021-12-30T14:55:16.000Z - JBPetersonQuote - The nobler the aim the better your life httpstcomsOUf6CLH8.md",
+    "tweets/2021-12-28T16:24:24.000Z - JBPetersonQuote - If youre resentful theres probably something you need to say theres cert.md",
+    "tweets/2021-12-17T20:01:10.000Z - dailystoic - If you dont have a consistent goal in life you cant live it in a consist.md",
+    "tweets/2021-11-10T18:35:02.000Z - simonsinek - When we have a clear sense of where were going we can be more flexible in .md",
+    "tweets/2021-11-10T09:44:41.000Z - naval - The most important question is not How do I get what I want  its What .md"
   ]
 }
