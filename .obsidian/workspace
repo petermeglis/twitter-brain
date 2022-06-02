@@ -10,6 +10,19 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "8a3e5ef1f773d630",
+        "type": "leaf",
+        "dimension": 27.04339051463169,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tweets/2020-10-09T19:36:28.000Z - JBPetersonQuote - You need structure Structure is like a set of tools The problem with st.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -36,16 +49,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "JBPetersonQuote what you could be",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,15 +98,15 @@
   },
   "active": "d8ac7c20eac1fdc3",
   "lastOpenFiles": [
-    "ideas/2022-05-29 09-12-39 You need something to aim at.md",
-    "tweets/2022-03-09T01:51:58.000Z - JBPetersonQuote - Dont underestimate the power of vision and direction These are irresistibl.md",
-    "tweets/2022-03-03T03:42:13.000Z - JBPetersonQuote - To tell people even something like Well you should feel good about yourse.md",
-    "tweets/2022-02-20T11:16:00.000Z - NavalismHQ - You have to pick something big to work on because its hard to commit your.md",
-    "tweets/2022-02-08T14:01:05.000Z - dailystoic - Yes you canif you do everything as if it were the last thing you were doi.md",
-    "tweets/2021-12-30T14:55:16.000Z - JBPetersonQuote - The nobler the aim the better your life httpstcomsOUf6CLH8.md",
-    "tweets/2021-12-28T16:24:24.000Z - JBPetersonQuote - If youre resentful theres probably something you need to say theres cert.md",
-    "tweets/2021-12-17T20:01:10.000Z - dailystoic - If you dont have a consistent goal in life you cant live it in a consist.md",
-    "tweets/2021-11-10T18:35:02.000Z - simonsinek - When we have a clear sense of where were going we can be more flexible in .md",
-    "tweets/2021-11-10T09:44:41.000Z - naval - The most important question is not How do I get what I want  its What .md"
+    "tweets/2020-10-09T19:36:28.000Z - JBPetersonQuote - You need structure Structure is like a set of tools The problem with st.md",
+    "tweets/2022-02-12T01:33:12.000Z - JBPetersonQuote - If you want to make yourself articulate which is a very good idea then not.md",
+    "tweets/2021-06-04T06:55:23.000Z - JBPetersonQuote - Is there something you should be aiming at Thats a good question Thats .md",
+    "tweets/2021-06-08T02:18:29.000Z - JBPetersonQuote - People say that you shouldnt base what you think of yourself on what other.md",
+    "tweets/2021-05-30T03:36:46.000Z - JBPetersonQuote - Do you want to be young and poor or old and rich Its like Id pick young.md",
+    "tweets/2020-06-23T17:43:03.000Z - JBPetersonQuote - Every single person who sets out to put themselves together ethically is a .md",
+    "tweets/2020-07-29T19:09:57.000Z - JBPetersonQuote - Information propagates in a network manner so dont underestimate the powe.md",
+    "tweets/2021-10-12T01:59:57.000Z - JBPetersonQuote - It isnt obvious to me that people find the deepest meaning in their life in.md",
+    "tweets/2021-12-01T16:39:41.000Z - JBPetersonQuote - Its less risky to say something than to remain silent when you know theres.md",
+    "tweets/2021-09-18T02:36:30.000Z - JBPetersonQuote - Theres no marriage thats successful without trust Youve got to tell each.md"
   ]
 }
