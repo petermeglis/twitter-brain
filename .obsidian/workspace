@@ -4,40 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5c0d0bdb01969f6",
+        "id": "d8ac7c20eac1fdc3",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "ideas/2022-05-29 09-12-39 You need something to aim at.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 2.8121126277128994,
-              "close": false
-            }
-          },
-          "pinned": true
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 544
+    "width": 196
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -94,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas/2022-05-29 09-12-39 You need something to aim at.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5c0d0bdb01969f6",
+  "active": "d8ac7c20eac1fdc3",
   "lastOpenFiles": [
     "ideas/2022-05-29 09-12-39 You need something to aim at.md",
     "tweets/2022-03-09T01:51:58.000Z - JBPetersonQuote - Dont underestimate the power of vision and direction These are irresistibl.md",
