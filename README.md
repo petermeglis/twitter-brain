@@ -34,5 +34,3 @@ Using https://obsidian.md to view the files and make connections.
 
 Using https://github.com/petermeglis/tweet-synthesizer to scrape tweets from the Twitter API.
 
-# Check Out
-YouTube Brain: https://github.com/petermeglis/youtube-brain
