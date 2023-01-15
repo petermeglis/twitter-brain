@@ -4,21 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d8ac7c20eac1fdc3",
+        "id": "797be568bc7f2f46",
         "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "8a3e5ef1f773d630",
-        "type": "leaf",
-        "dimension": 27.04339051463169,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tweets/2020-10-09T19:36:28.000Z - JBPetersonQuote - You need structure Structure is like a set of tools The problem with st.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JBPetersonQuote what you could be",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -58,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 196
+    "width": 697
   },
   "right": {
     "id": "bbab878207c64ce6",
@@ -79,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8ac7c20eac1fdc3",
+  "active": "797be568bc7f2f46",
   "lastOpenFiles": [
-    "tweets/2020-10-09T19:36:28.000Z - JBPetersonQuote - You need structure Structure is like a set of tools The problem with st.md",
-    "tweets/2022-02-12T01:33:12.000Z - JBPetersonQuote - If you want to make yourself articulate which is a very good idea then not.md",
-    "tweets/2021-06-04T06:55:23.000Z - JBPetersonQuote - Is there something you should be aiming at Thats a good question Thats .md",
-    "tweets/2021-06-08T02:18:29.000Z - JBPetersonQuote - People say that you shouldnt base what you think of yourself on what other.md",
-    "tweets/2021-05-30T03:36:46.000Z - JBPetersonQuote - Do you want to be young and poor or old and rich Its like Id pick young.md",
-    "tweets/2020-06-23T17:43:03.000Z - JBPetersonQuote - Every single person who sets out to put themselves together ethically is a .md",
-    "tweets/2020-07-29T19:09:57.000Z - JBPetersonQuote - Information propagates in a network manner so dont underestimate the powe.md",
-    "tweets/2021-10-12T01:59:57.000Z - JBPetersonQuote - It isnt obvious to me that people find the deepest meaning in their life in.md",
-    "tweets/2021-12-01T16:39:41.000Z - JBPetersonQuote - Its less risky to say something than to remain silent when you know theres.md",
-    "tweets/2021-09-18T02:36:30.000Z - JBPetersonQuote - Theres no marriage thats successful without trust Youve got to tell each.md"
+    "tweets/2021-04-10T21:06:25.000Z - naval - Buying Bitcoin is more voting than investing.md",
+    "tweets/2021-01-11T03:26:00.000Z - naval - Bitcoin cannot be coercedThats why its the most important experiment in.md",
+    "tweets/2020-12-27T03:44:10.000Z - naval - Its not so much Bitcoin going up as dollar going down.md",
+    "tweets/2020-12-10T05:09:36.000Z - naval - To the generation born after Bitcoin its as old as gold.md",
+    "ideas/2022-03-12 10-12-24 Do more of what works and less of what doesn't.md",
+    "ideas/2022-05-29 09-21-58 Aim at something noble.md",
+    "ideas/2022-05-29 09-12-39 You need something to aim at.md",
+    "ideas/2022-05-29 08-31-22 Learn by teaching.md",
+    "ideas/2022-05-28 10-53-32 Do the boring work.md",
+    "ideas/2022-05-28 10-10-37 Give and expect nothing in return.md"
   ]
 }
